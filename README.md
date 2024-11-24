@@ -1,0 +1,1 @@
+A simple billing management system using apache netbeans that takes the user details, can modify them. Also , it takes product details ,can modify them . Finally using these details, it generates a bill in your system.
